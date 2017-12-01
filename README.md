@@ -19,3 +19,7 @@ node play-store.js [playstore-username]
 node play-store.js BC+Team!
 node play-store.js Facebook
 ```
+
+## Result 
+
+![result-ss](https://user-images.githubusercontent.com/6011295/33480925-5eacdf48-d6a3-11e7-9fde-3a99858d8197.png)
